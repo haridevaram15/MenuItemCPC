@@ -18,7 +18,7 @@ spec:
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: dsconfigsn
+      - name: dsconfigsn15
 
 ---
 apiVersion: v1
